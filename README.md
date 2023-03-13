@@ -1,5 +1,6 @@
 # vuejs-tutorial
 Dies ist ein Tutorial von [Vue Seminare und Schulungen](https://www.vuejs-seminar.de/).
+Jetzt hier lesen: [Vue JS Tutorial Anfänger](https://www.vuejs-seminar.de/vuejs-tutorial-anfaenger/)
 
 ## Vorwort
 Dieses Tutorial soll den perfekten und einfachen Einstieg in die Welt des Vue JS Frameworks bieten. Du kannst das Wissen über Vue JS 3 auch in Vue JS 2 einsetzen, da wir uns hier auf die Composition API fokussieren. Die Setup API ist, wenn man die Composition API beherrscht, leicht erlernbar, da es sich “eigentlich” stark an Javascript anlehnt und leicht verständlich ist👍🏽
